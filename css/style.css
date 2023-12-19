@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #88B44E;
+    --primary: #1564C0;
     --secondary: #FB9F38;
     --light: #F5F8F2;
     --dark: #252C30;
@@ -15,7 +15,7 @@
 }
 
 .btn-green{
-    background-color: #88B44E;
+    background-color: #1564C0;
 }
 
 .fw-medium {
@@ -171,7 +171,7 @@
     bottom: 0;
     display: flex;
     align-items: center;
-    background: rgba(136, 180, 78, .7);
+    background: rgba(21,100,192, 0.8);
     z-index: 1;
 }
 
@@ -204,7 +204,7 @@
 }
 
 .page-header {
-    background: linear-gradient(rgba(136, 180, 78, .7), rgba(136, 180, 78, .7)), url(../img/carousel-1.jpg) center center no-repeat;
+    background: linear-gradient(rgba(21,100,192, 0.8), rgba(21,100,192, 0.8)), url(../img/carousel-1.jpg) center center no-repeat;
     background-size: cover;
 }
 
@@ -294,7 +294,7 @@
 
 /*** About ***/
 .video {
-    background: linear-gradient(rgba(136, 180, 78, .85), rgba(136, 180, 78, .85)), url(../img/video-bg.jpg) center center no-repeat;
+    background: linear-gradient(rgba(21,100,192, 0.8), rgba(21,100,192, 0.8)), url(../img/video-bg.jpg) center center no-repeat;
     background-size: cover;
 }
 
@@ -424,7 +424,7 @@
 
 /*** Testimonial ***/
 .testimonial {
-    background: linear-gradient(rgba(136, 180, 78, .85), rgba(136, 180, 78, .85)), url(../img/testimonial-bg.jpg) center center no-repeat;
+    background: linear-gradient(rgba(21,100,192, 0.8), rgba(21,100,192, 0.8)), url(../img/testimonial-bg.jpg) center center no-repeat;
     background-size: cover;
 }
 
